@@ -1,0 +1,7 @@
+﻿{{Cite web| last = Center for History and New Media| title = Guide rapide pour débuter}}
+
+{{Cite encyclopedia| title = Raspberry Pi| encyclopedia = Wikipédia| accessdate = 2017-03-16| date = 2017-03-16| url = https://fr.wikipedia.org/w/index.php?title=Raspberry_Pi&oldid=135479257}}
+
+{{Cite web| title = Cortex-A53 Processor - ARM| accessdate = 2017-03-16| url = https://www.arm.com/products/processors/cortex-a/cortex-a53-processor.php}}
+
+{{Cite web| last = Ltd| first = A. R. M.| title = ARM11 MPCore Processor Technical Reference Manual Revision: r2p0 | 12.6. Debug events| work = ARM Developer| accessdate = 2017-03-16| url = https://developer.arm.com/docs}}
